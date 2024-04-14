@@ -20,7 +20,7 @@
 ### Как запустить?
 
 1. Установка зависимостей: `pip install -r requirements.txt`;
-2. Запуск:  `python main.py video.mp4`.
+2. Запуск:  `python linear_markup.py video.mp4`.
 
 ##### Обязательные аргументы:
 
